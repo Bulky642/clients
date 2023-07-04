@@ -158,7 +158,7 @@
     "@koa/multer": "3.0.2",
     "@koa/router": "12.0.0",
     "@microsoft/signalr": "6.0.16",
-    "@microsoft/signalr-protocol-msgpack": "6.0.16",
+    "@microsoft/signalr-protocol-msgpack": "6.0.18",
     "@ng-select/ng-select": "10.0.4",
     "argon2": "0.30.3",
     "argon2-browser": "1.18.0",
